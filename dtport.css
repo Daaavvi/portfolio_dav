@@ -12,6 +12,7 @@
     scroll-behavior: smooth;
     border: 0px solid red;
     letter-spacing: 1px;
+    loading: lazy;
 }
 
 header {
