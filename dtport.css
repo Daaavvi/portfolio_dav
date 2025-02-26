@@ -1,7 +1,5 @@
 @font-face {
-    font-family: Architxt, Montseratt, Nunito, Orbitron;
-    src: url(Orbitron-VariableFont_wght.ttf) format(truetype);
-    src: url(Montserrat-VariableFont_wght.ttf) format(truetype);
+    font-family: Architxt, Nunito;
     src: url(Nunito-VariableFont_wght.ttf) format(truetype);
     src: url(ARCHITXT.TTF) format(truetype);
 
@@ -470,7 +468,7 @@ input[type=radio]:checked ~ label > img {
 
  .connect {
     display: block;
-    margin-left: 70%;
+    margin-left: 75%;
     list-style: none;
     font-size: 14px;
 }
@@ -485,7 +483,7 @@ input[type=radio]:checked ~ label > img {
 
 .explore {
     display: block;
-    margin-left: -45%;
+    margin-left: -50%;
     list-style: none;    
     font-size: 14px;
 }
