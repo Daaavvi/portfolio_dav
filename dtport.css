@@ -16,14 +16,13 @@
 header {
     position: fixed;
     height: 50px;
+    width: 100vh;
     background-color: rgba(128, 128, 128, .50);
     justify-content: space-between;
     align-items: center;
     top: 2%;
     display: inline-flex;
     text-align: center;
-    left: 22%;
-    right: 22%;
     border-radius: 25px;
     backdrop-filter: blur(4px);
     z-index: 3;
